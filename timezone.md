@@ -4,6 +4,9 @@ We need an application which will show the current time on the page and also the
 
 The default city can be taken from settings.py TIME_ZONE
 
+## Models
+There should be no models for this project. No database.
+
 ## Change city
 There should be an option to change the city in the following url
 
