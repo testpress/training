@@ -7,6 +7,9 @@ The default city can be taken from settings.py TIME_ZONE
 ## Models
 There should be no models for this project. No database.
 
+## Design mockup
+![timezone](https://user-images.githubusercontent.com/328112/211003080-e0761252-adba-480b-928f-ef907572b7ef.png)
+
 ## Change city
 There should be an option to change the city in the following url
 
@@ -17,6 +20,7 @@ http://127.0.0.1:8000/cities/change/
 On visiting the above URL, there should be a dropdown with the list of all cities (Area/Location) and timezone as a dropdown.
 
 We should be able to change the city from that dropdown.
+
 
 Once the city is changed and we submit the form, it should redirect to the homepage.
 
